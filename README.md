@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Vishnu Sastry H K 👋
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VishnuSastryHK&count_private=true&theme=tokyonight&showicons=true)]()
 ###
 
