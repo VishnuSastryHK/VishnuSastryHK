@@ -2,8 +2,8 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VishnuSastryHK&count_private=true&theme=tokyonight&showicons=true)]()
 ###
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&langs_count=5&theme=tokyonight)]()
-
+<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&langs_count=5&theme=tokyonight)]()
+-->
 <hr/>
 <h3>Connect with me on the web:</h3>
 
