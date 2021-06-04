@@ -6,7 +6,7 @@
 
 <hr/>
 # Connect with me on the web:
-<img src="/linkedin.png" alt="drawing" style="width:20px;"/>
+<a href="url"><img src="/linkedin.png" align="left" height="48" width="48" ></a>
 <!--! ![GitHub Logo](/linkedin.png)[Linkedin](https://www.linkedin.com/in/vishnu-sastry-h-k-52b219190/)
 <!--
 **VishnuSastryHK/VishnuSastryHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
