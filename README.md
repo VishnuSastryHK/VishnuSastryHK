@@ -5,9 +5,9 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&langs_count=5&theme=tokyonight)]()
 
 <hr/>
-#Connect with me on the web:
+# Connect with me on the web:
 
-![Linkedin Logo](/images/linkedin.png)[Linkedin](https://www.linkedin.com/in/vishnu-sastry-h-k-52b219190/)
+!(/images/linkedin.png)[Linkedin](https://www.linkedin.com/in/vishnu-sastry-h-k-52b219190/)
 <!--
 **VishnuSastryHK/VishnuSastryHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
