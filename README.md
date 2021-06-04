@@ -5,8 +5,8 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&langs_count=5&theme=tokyonight)]()
 
 <hr/>
-<h4>Connect with me on the web:</h4>
-<br/>
+<h3>Connect with me on the web:</h3>
+
 <a href="https://www.linkedin.com/in/vishnu-sastry-h-k-52b219190/"><img src="/linkedin.png" align="left" height="48" width="48" ></a>
 <!--! ![GitHub Logo](/linkedin.png)[Linkedin](https://www.linkedin.com/in/vishnu-sastry-h-k-52b219190/)
 <!--
