@@ -1,12 +1,12 @@
 ### Hi👋 I'm Vishnu Sastry H K 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VishnuSastryHK&count_private=true&theme=tokyonight&showicons=true)]()
 ###
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&langs_count=5&theme=tokyonight)]()
 -->
 <hr/>
 <h3>Connect with me on the web:</h3>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="vishnu-sastry-h-k-52b219190" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vishnu-sastry-h-k-52b219190?trk=profile-badge">Vishnu Sastry H K</a></div>
 <a href="https://www.linkedin.com/in/vishnu-sastry-h-k-52b219190/" target="_blank"><img src="/linkedin.png" align="left" height="48" width="48" ></a>
 <!--! ![GitHub Logo](/linkedin.png)[Linkedin](https://www.linkedin.com/in/vishnu-sastry-h-k-52b219190/)
