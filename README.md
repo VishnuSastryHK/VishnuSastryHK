@@ -1,7 +1,7 @@
 ### Hi👋 I'm Vishnu Sastry H K 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VishnuSastryHK&count_private=true&theme=tokyonight&showicons=true)]()
 ###
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK&theme=dark)](https://git.io/streak-stats)
 ###
 
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&langs_count=5&theme=tokyonight)]()
