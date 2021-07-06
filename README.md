@@ -5,15 +5,15 @@
 <p align="left">
 <code><img src="/python-original.svg" alt="python" width="40" height="40"/></code> 
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/c-original.svg" alt="C" width="40" height="40"/></code>
-<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
-<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/java-original.svg" alt="Java" width="40" height="40"/></code> 
-<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
-<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/css3-original-wordmark.svg" alt="css3" height="40"/></code> 
-<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code> 
-<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
-<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/github.svg" alt="github" width="40" height="40"/></code> 
-<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
-<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
+<code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
+<code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/java-original.svg" alt="Java" width="40" height="40"/></code> 
+<code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
+<code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/css3-original-wordmark.svg" alt="css3" height="40"/></code> 
+<code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code> 
+<code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
+<code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/github.svg" alt="github" width="40" height="40"/></code> 
+<code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
+<code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical)
