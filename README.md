@@ -4,7 +4,7 @@
 
 <p align="left">
 <code><img src="/python-original.svg" alt="python" width="40" height="40"/></code> 
-<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/c-original.svg" alt="C" width="40" height="40"/></code>
+<code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/c-original.svg" alt="C" width="40" height="40"/></code>
 <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
 <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/java-original.svg" alt="Java" width="40" height="40"/></code> 
 <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
