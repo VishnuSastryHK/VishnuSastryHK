@@ -3,16 +3,17 @@
 ### :zap: My Tech Toolbox 🧰
 
 <p align="left">
-<code><img src="/python-original.svg" alt="python" width="40" height="40"/></code> 
+
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/c-original.svg" alt="C" width="40" height="40"/></code>
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/java-original.svg" alt="Java" width="40" height="40"/></code> 
+ <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/python-original.svg" alt="python" width="40" height="40"/></code> 
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/css3-original-wordmark.svg" alt="css3" height="40"/></code> 
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code> 
+<code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/github.svg" alt="github" width="40" height="40"/></code> 
-<code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 </p>
 
