@@ -28,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
-<h3>Connect with me on the web:</h3>
+<h3>Connect with me on te web:</h3>
 
 
 <a href="https://www.linkedin.com/in/vishnu-sastry-h-k-52b219190/" target="_blank"><img src="/linkedin.png" align="left" height="48" width="48" ></a>
