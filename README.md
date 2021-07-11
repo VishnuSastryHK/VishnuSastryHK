@@ -3,7 +3,7 @@
 
 ### :zap: My Tech Toolbox
 
-<p align="left">
+<p align="lef">
 
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/c-original.svg" alt="C" width="40" height="40"/></code>
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
