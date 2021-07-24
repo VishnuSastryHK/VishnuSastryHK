@@ -1,7 +1,7 @@
 ### Hi👋 I'm Vishnu Sastry H K
 
 
-### :zap: My Tech Toolbox
+### :zap: My Tech Toolbo
 
 
 <p align="left">
