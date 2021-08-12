@@ -1,4 +1,4 @@
-### Hi, I'm Vishnu Sastry H K <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hi, I'm Vishnu Sastry H K <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> (#) 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-
+(#)
 
 ### 🛠 &nbsp;My Tech Toolbox
 
@@ -35,6 +35,8 @@
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 </p>
 
+(#)
+
 ### ⚙️ &nbsp;GitHub Satistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical)
@@ -48,6 +50,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
+
+(#)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
