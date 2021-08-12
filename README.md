@@ -2,6 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+<img src="/giphy.gif" width="300px" align="right"> 
+<p align="left">
+
 - 🌱 I’m currently working a Android project
 - ⛳ Future goal : Contribute to Open Source Development and Community
 
@@ -19,8 +22,7 @@
 
 ### 🛠 &nbsp;My Tech Toolbox
 
-<img src="/giphy.gif" width="300px" align="right"> 
-<p align="left">
+
 
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/c-original.svg" alt="C" width="40" height="40"/></code>
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
