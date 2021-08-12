@@ -1,4 +1,4 @@
-### Hi👋 I'm Vishnu Sastry H K
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vishnu Sastry H K
 
 
 ### :zap: My Tech Toolbox
