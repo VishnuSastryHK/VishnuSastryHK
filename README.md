@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img src="/giphy.gif" width="300px" align="right"> 
+<img src="/giphy.gif" width="200px" align="right"> 
 <p align="left">
 
 - 🌱 I’m currently working a Android project
