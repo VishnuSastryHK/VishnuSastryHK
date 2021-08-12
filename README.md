@@ -67,7 +67,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&langs_count=5&theme=tokyonight)]()
 -->
 <p align="left">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishnuSastryHK&layout=compact&langs_count=8&theme=default"/>
+  <img height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishnuSastryHK&layout=compact&langs_count=8&theme=default"/>
 </p>
 
 
