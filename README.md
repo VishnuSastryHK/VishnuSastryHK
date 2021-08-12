@@ -1,7 +1,23 @@
-### Hi I'm Vishnu Sastry H K <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hi, I'm Vishnu Sastry H K <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
+### 👨🏻‍💻 &nbsp;About Me
+
+- 🌱 I’m currently working a Android project
+- ⛳ Future goal : Contribute to Open Source Development and Community
+
+<!-- 
+- 🔭 I’m currently working on .
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--->
 
 
-### :zap: My Tech Toolbox
+### 🛠 &nbsp;My Tech Toolbox
 
 <img src="/giphy.gif" width="100px" align="right"> 
 <p align="left">
@@ -19,6 +35,8 @@
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 </p>
 
+### ⚙️ &nbsp;GitHub Satistics
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical)
 
 ###
@@ -30,7 +48,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
-<h3>Connect with me on the web:</h3>
+
+### 🤝🏻 &nbsp;Connect with Me
 
 
 <a href="https://www.linkedin.com/in/vishnu-sastry-h-k-52b219190/" target="_blank"><img src="/linkedin.png" align="left" height="38" width="38" ></a>
@@ -41,12 +60,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on .
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
