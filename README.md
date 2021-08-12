@@ -8,7 +8,7 @@
 ###
 - 🔭 I’m currently working on <a href="https://github.com/VishnuSastryHK/MakeMyDigiCard">MakeMyDigiCard</a>
 - 🌱 I’m currently learning MERN Stack
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with <a href="https://github.com/VishnuSastryHK/KCETCollegePredictor">MakeMyDigiCard</a>
 
 <!-- 
 - 🔭 I’m currently working on .
