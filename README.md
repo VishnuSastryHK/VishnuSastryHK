@@ -34,6 +34,7 @@
 
 
 <a href="https://www.linkedin.com/in/vishnu-sastry-h-k-52b219190/" target="_blank"><img src="/linkedin.png" align="left" height="48" width="48" ></a>
+<a href="mailto: hkvsastry3300@gmail.com" target="_blank"><img src="/gmail.png" align="left" height="48" width="48" ></a>
 <!--! ![GitHub Logo](/linkedin.png)[Linkedin](https://www.linkedin.com/in/vishnu-sastry-h-k-52b219190/)
 <!--
 **VishnuSastryHK/VishnuSastryHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
