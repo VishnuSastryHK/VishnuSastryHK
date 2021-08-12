@@ -47,8 +47,8 @@
 ###
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishnuSastryHK&layout=compact&langs_count=8&theme=default"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=default&include_all_commits=true&count_private=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishnuSastryHK&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical)
