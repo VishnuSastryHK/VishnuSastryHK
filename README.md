@@ -47,13 +47,12 @@
 ###
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishnuSastryHK&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical)
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true alt=rahuldkjain /> </p>
 
 ###
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK&theme=dark)](https://git.io/streak-stats)
