@@ -53,6 +53,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical)
 
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true alt=rahuldkjain /> </p>
+
 ###
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK&theme=dark)](https://git.io/streak-stats)
 ###
