@@ -19,6 +19,7 @@
 - ⚡ Fun fact: ...
 --->
 
+<hr />
 
 ### 🛠 &nbsp;My Tech Toolbox
 
@@ -53,7 +54,7 @@
 
 <hr/>
 
-<hr />
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
