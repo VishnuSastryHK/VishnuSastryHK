@@ -47,21 +47,20 @@
 ###
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK&theme=dark"/>
+  <img height="260em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="260em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK&theme=radical"/>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical)
 
 
 ###
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK&theme=dark)](https://git.io/streak-stats)
 ###
-
-<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&langs_count=5&theme=tokyonight)]()
 -->
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishnuSastryHK&layout=compact&langs_count=8&theme=default"/>
+  <img height="260em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishnuSastryHK&layout=compact&langs_count=8&theme=default"/>
 </p>
 
 
