@@ -6,10 +6,10 @@
 <p align="left">
  
 ###
-- 🔭 I’m currently working on <a href="https://github.com/VishnuSastryHK/MakeMyDigiCard">MakeMyDigiCard</a>
+- 🔭 I’m currently working on <a href="https://github.com/VishnuSastryHK/MakeMyDigiCard">Make My DigiCard</a>
 - 🌱 I’m currently learning MERN Stack
-- 🤔 I’m looking for help with <a href="https://github.com/VishnuSastryHK/KCETCollegePredictor">MakeMyDigiCard</a>
-
+- 🤔 I’m looking for help with <a href="https://github.com/VishnuSastryHK/KCETCollegePredictor">KCET College Predictor</a>
+- 📫 Reach me at:  <a href="mailto: hkvsastry3300@gmail.com" target="_blank">hkvsastry3300@gmail.com</a>
 <!-- 
 - 🔭 I’m currently working on .
 - 🌱 I’m currently learning ...
