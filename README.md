@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-(#)
+<hr />
 
 ### 🛠 &nbsp;My Tech Toolbox
 
@@ -35,7 +35,7 @@
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 </p>
 
-(#)
+<hr />
 
 ### ⚙️ &nbsp;GitHub Satistics
 
@@ -51,7 +51,7 @@
 
 <hr/>
 
-(#)
+<hr />
 
 ### 🤝🏻 &nbsp;Connect with Me
 
