@@ -47,10 +47,10 @@
 ###
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK&theme=dark&hide"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK&theme=dark&hide"/>
 </p>
-
+<!--
 <p align="left">
   <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=VishnuSastryHK&theme=default"/>
  
