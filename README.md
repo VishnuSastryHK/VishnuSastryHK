@@ -47,11 +47,14 @@
 ###
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK&theme=dark&hide"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK&theme=dark&hide"/>
 </p>
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=VishnuSastryHK&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">
+  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=VishnuSastryHK&theme=default/>
+ 
+</p>
 
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical)
