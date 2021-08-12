@@ -4,7 +4,9 @@
 
 <img src="/giphy.gif" width="200px" align="right"> 
 <p align="left">
-
+ 
+###
+ 
 - 🌱 I’m currently working a Android project
 - ⛳ Future goal : Contribute to Open Source Development and Community
 
@@ -23,6 +25,7 @@
 
 ### 🛠 &nbsp;My Tech Toolbox
 
+###
 
 
 <code><img src="https://github.com/VishnuSastryHK/VishnuSastryHK/blob/master/Desktop/images/c-original.svg" alt="C" width="40" height="40"/></code>
@@ -41,6 +44,7 @@
 <hr />
 
 ### ⚙️ &nbsp;GitHub Satistics
+###
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical)
 
@@ -57,7 +61,7 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-
+###
 
 <a href="https://www.linkedin.com/in/vishnu-sastry-h-k-52b219190/" target="_blank"><img src="/linkedin.png" align="left" height="38" width="38" ></a>
 <a href="mailto: hkvsastry3300@gmail.com" target="_blank"><img src="/gmail.png" align="left" height="38" width="38" ></a>
