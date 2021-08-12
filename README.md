@@ -52,7 +52,7 @@
 </p>
 
 <p align="left">
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=VishnuSastryHK&theme=default/>
+  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=VishnuSastryHK&theme=default"/>
  
 </p>
 
