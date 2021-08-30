@@ -18,7 +18,7 @@ T Hi, I'm Vishnu Sastry H K <img src="https://raw.githubusercontent.com/MartinHe
 - 💬 Ask me about ...
 - 📫 How to reach me: ..
 - 😄 Pronouns: ...
-- ⚡ Fun fact: .
+- ⚡ Fun fact: ..
 --->
 
 <hr />
